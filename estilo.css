@@ -1,0 +1,77 @@
+body{
+    background-color: rgb(20, 238, 155);
+}
+
+h1{
+    font-family: monospace;
+    color: rgb(13, 14, 13);
+    font-style: italic;
+    text-decoration: underline;
+    text-align: center;
+}
+
+p{
+    text-indent: 50px;
+}
+
+.parag{
+    font-family: Arial;
+    color: rgb(59, 3, 3);
+    font-style: initial;
+    text-align: justify;
+    text-indent: 50px;
+}
+
+.chefe{
+    font-family: Impact;
+    color: rgb(14, 13, 13);
+    font-style: oblique;
+    text-align: justify;
+}
+
+.estudantes{
+    font-family: fantasy;
+    color: rgb(51, 47, 47);
+    font-style: normal;
+    text-align: justify;
+}
+
+
+.subtitulo{
+    font-family: serif;
+    color: rgb(20, 26, 21);
+    font-style: inherit;
+    text-align: justify;
+    text-decoration: overline;    
+}
+
+ul{
+    font-family: 'Franklin Gothic Medium';
+    color: rgb(43, 35, 40);
+    font-style: normal;
+    text-align: justify;
+}
+
+
+.foto-aluno{
+    border-radius: 50%;
+    width: 100px;
+    box-shadow: 2px 2px 5px black;
+   
+}
+
+.borda{
+    border: 10px solid rgb(243, 247, 241); 
+    background-color: rgb(217, 223, 219);
+    box-shadow: 2px 2px 5px black;
+    width: 100px;
+}
+
+a{
+    border: 5px solid rgb(49, 231, 95);
+    box-shadow: 3px 3px 7px rgb(17, 17, 17);
+    background-color: chartreuse;    
+}
+
+
+
